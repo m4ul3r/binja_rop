@@ -1,0 +1,45 @@
+{
+  "pluginmetadataversion": 2,
+  "name": "binja_rop",
+  "type": [
+    "core",
+    "ui",
+    "architecture",
+    "binaryview",
+    "helper"
+  ],
+  "api": [
+    "python3"
+  ],
+  "description": "",
+  "longdescription": "",
+  "license": {
+    "name": "MIT",
+    "text": ""
+  },
+  "platforms": [
+    "Darwin",
+    "Linux",
+    "Windows"
+  ],
+  "installinstructions": {
+    "Darwin": "",
+    "Linux": "",
+    "Windows": ""
+  },
+  "dependencies": {
+    "pip": [
+    ],
+    "apt": [
+    ],
+    "installers": [
+      ""
+    ],
+    "other": [
+      ""
+    ]
+  },
+  "version": "3.3.3996",
+  "author": "m4ul3r",
+  "minimumbinaryninjaversion": 3364
+}
